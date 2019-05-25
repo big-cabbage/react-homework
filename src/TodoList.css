@@ -1,0 +1,21 @@
+.TodoList-task{
+    text-align: left;
+    padding: 0px 20px;
+    background-color: black;
+}
+.TodoList-delete{
+    float: right;
+    height: 30px;
+    width: 30px;
+}
+.TodoList-ul{
+    list-style: none;
+    text-align: left;
+    padding: 0px;
+
+}
+.TodoList-li{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px;
+}
